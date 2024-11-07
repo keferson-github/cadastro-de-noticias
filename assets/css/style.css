@@ -282,7 +282,7 @@ form#newsForm {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 5px;
+    gap: 30px;
 }
 
 .containerAuthor-Date {
