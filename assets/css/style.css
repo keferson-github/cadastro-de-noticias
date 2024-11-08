@@ -543,6 +543,16 @@ footer a:hover {
         min-width: 92vw;
     }
 
+    select#newsCategoryTitle {
+        background-color: #cccccc33;
+        height: 32px;
+        border-radius: 5px;
+        border: none;
+        padding: 5px;
+        outline: none;
+        width: 350px;
+    }
+
     textarea#newsDescription {
         background-color: #cccccc33;
         border-radius: 8px;
