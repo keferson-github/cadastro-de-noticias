@@ -306,6 +306,7 @@ select#newsCategorySubtitle {
     height: 32px;
     border-radius: 5px;
     padding: 5px;
+    width: 350px;
     outline: none;
 }
 
