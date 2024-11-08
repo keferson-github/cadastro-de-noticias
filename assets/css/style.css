@@ -358,6 +358,7 @@ textarea#newsDescription {
     outline: none;
     border: none;
     width: 100%;
+    height: auto;
 }
 
 button {
@@ -535,7 +536,14 @@ footer a:hover {
     }
 
     textarea#newsDescription {
+        background-color: #cccccc33;
+        border-radius: 8px;
+        padding: 8px;
+        font-family: 'Poppins';
+        outline: none;
+        border: none;
         width: 100%;
+        height: auto;
     }
 
     button {
