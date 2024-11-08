@@ -290,7 +290,7 @@ form#newsForm {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 90px;
+    gap: 10px;
 }
 
 select#newsCategoryTitle {
@@ -567,7 +567,7 @@ footer a:hover {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        gap: 40px;
+        gap: 10px;
     }
     
     .containerTitle-SubTitle {
