@@ -524,6 +524,14 @@ footer a:hover {
         gap: 32px;
     }
 
+    .containerAuthor-Date {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        gap: 10px;
+    }
+
     input#categoryTitle {
         background-color: #cccccc33;
         padding: 8px;
@@ -594,7 +602,8 @@ footer a:hover {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        gap: 37px;
+        flex-direction: column;
+        gap: 10px;
     }
     
     .containerTitle-SubTitle {
