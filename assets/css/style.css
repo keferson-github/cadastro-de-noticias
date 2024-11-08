@@ -618,6 +618,18 @@ footer a:hover {
 
 @media (max-width: 412px) and (min-width: 375px) {
 
+    .input-list {
+        position: relative;
+    }
+    
+    .input-list i {
+        position: absolute;
+        top: 12px;
+        left: 255px;
+        font-size: 16px;
+        color: #49494975;
+    }
+
     .modal-content {
         display: flex;
         justify-content: center;
