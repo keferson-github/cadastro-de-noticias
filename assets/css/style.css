@@ -357,7 +357,7 @@ textarea#newsDescription {
     font-family: 'Poppins';
     outline: none;
     border: none;
-    min-width: 85vw;
+    width: 100%;
 }
 
 button {
