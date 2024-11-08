@@ -427,6 +427,20 @@ footer a:hover {
         color: #49494975;
     }
 
+    button {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #2563eb;
+        color: #fafafa;
+        font-family: 'Poppins';
+        font-weight: 600;
+        border: none;
+        max-width: 350px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+
     .button-list-1 {
         display: flex;
         justify-content: center;
@@ -511,6 +525,20 @@ footer a:hover {
         line-height: 24px;
         position: relative;
         gap: 32px;
+    }
+
+    button {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #2563eb;
+        color: #fafafa;
+        font-family: 'Poppins';
+        font-weight: 600;
+        border: none;
+        max-width: 350px;
+        cursor: pointer;
+        transition: 0.5s;
     }
 
     .containerAuthor-Date {
