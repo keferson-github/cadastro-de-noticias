@@ -275,7 +275,7 @@ form#newsForm {
     align-items: center;
     flex-direction: column;
     gap: 10px;
-    max-width: 100%;
+    max-width: 350px;
 }
 
 
@@ -318,7 +318,7 @@ input#categoryTitle {
     border: none;
     border-radius: 5px;
     outline: none;
-    min-width: 25vw;
+    min-width: 352px;
 }
 
 input#categorySubtitle {
@@ -327,9 +327,8 @@ input#categorySubtitle {
     border: none;
     border-radius: 5px;
     outline: none;
-    min-width: 25vw;
+    min-width: 352px;
 }
-
 
 
 input#newsAuthor {
