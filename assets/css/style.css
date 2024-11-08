@@ -135,7 +135,7 @@ header img {
 main {
     background-color: #fafafa;
     flex: 1;
-    padding: 24px;
+    padding: 15px;
     display: flex;
     justify-content: center;
     align-items: flex-start;
