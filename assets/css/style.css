@@ -614,6 +614,20 @@ footer a:hover {
         min-height: 50vh;
     }
 
+    button {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #2563eb;
+        color: #fafafa;
+        font-family: 'Poppins';
+        font-weight: 600;
+        border: none;
+        width: 100%;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+
     .containerAuthor-Date {
         display: flex;
         justify-content: space-between;
