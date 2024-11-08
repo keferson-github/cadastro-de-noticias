@@ -476,6 +476,21 @@ footer a:hover {
         display: block;
     }
 
+    
+.containerTitle-SubTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.containerAuthor-Date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 }
 
 @media (max-width: 600px) and (min-width: 425px) {
