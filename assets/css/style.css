@@ -459,13 +459,16 @@ footer a:hover {
     .mobile-menu-icon {
         background-color: transparent;
         display: block;
-        border: none !important;
     }
 
     .mobile-menu-icon button {
         background-color: #ffffff00;
         width: 60px;
         height: auto;
+    }
+
+    .mobile-menu-icon button:hover {
+        border: none;
     }
 
     .open {
