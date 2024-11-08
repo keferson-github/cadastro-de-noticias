@@ -360,14 +360,10 @@ button {
     color: #fafafa;
     font-family: 'Poppins';
     font-weight: 600;
-    width: 100%;
     border: none;
+    max-width: 350px;
     cursor: pointer;
     transition: 0.5s;
-}
-
-button:hover {
-    background-color: #000;
 }
 
 
