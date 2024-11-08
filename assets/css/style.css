@@ -374,7 +374,6 @@ button {
 
 button:hover {
     background-color: #000;
-    box-shadow: 0 0 10px #cccccc33;
 }
 
 
@@ -465,8 +464,6 @@ footer a:hover {
         background-color: #ffffff00;
         width: 60px;
         height: auto;
-        border-radius: 10px;
-        box-shadow: 0 0 5px #4c98ee81;
     }
 
     .open {
