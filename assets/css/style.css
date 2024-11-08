@@ -459,7 +459,7 @@ footer a:hover {
     .mobile-menu-icon {
         background-color: transparent;
         display: block;
-        border: 1px solid transparent;
+        border: none !important;
     }
 
     .mobile-menu-icon button {
