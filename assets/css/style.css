@@ -555,36 +555,41 @@ footer a:hover {
 
     input#categoryTitle {
         background-color: #cccccc33;
-        padding: 8px;
+        padding: 10px;
+        border: none;
         border-radius: 30px;
         outline: none;
         width: 350px;
     }
     
-    input#categorySubtitle {
-        background-color: #cccccc33;
-        padding: 8px;
-        border-radius: 30px;
-        outline: none;
-        width: 350px;
-    }
-
+    
     select#newsCategoryTitle {
         background-color: #cccccc33;
         display: flex;
         justify-content: center;
         align-items: center;
         height: 32px;
+        border: none;
         border-radius: 30px;
-        padding: 5px;
+        padding: 10px;
+        outline: none;
+        width: 350px;
+    }
+
+    input#categorySubtitle {
+        background-color: #cccccc33;
+        padding: 10px;
+        border: none;
+        border-radius: 30px;
         outline: none;
         width: 350px;
     }
 
     textarea#newsDescription {
         background-color: #cccccc33;
+        border: none;
         border-radius: 10px;
-        padding: 8px;
+        padding: 10px;
         font-family: 'Poppins';
         outline: none;
         height: auto;
@@ -629,7 +634,7 @@ footer a:hover {
         border: none;
         width: 100%;
         cursor: pointer;
-        transition: 0.5s;
+        transition: 0.3s;
     }
 
     .containerAuthor-Date {
@@ -651,8 +656,9 @@ footer a:hover {
     select#newsCategoryTitle {
         background-color: #cccccc33;
         height: 32px;
+        border: none;
         border-radius: 30px;
-        padding: 5px;
+        padding: 10px;
         outline: none;
         width: 350px;
     }
@@ -660,16 +666,18 @@ footer a:hover {
     select#newsCategorySubtitle {
         background-color: #cccccc33;
         height: 32px;
+        border: none;
         border-radius: 30px;
-        padding: 5px;
+        padding: 10px;
         width: 350px;
         outline: none;
     }
 
     textarea#newsDescription {
         background-color: #cccccc33;
+        border: none;
         border-radius: 10px;
-        padding: 8px;
+        padding: 10px;
         font-family: 'Poppins';
         outline: none;
         min-width: 85vw;
