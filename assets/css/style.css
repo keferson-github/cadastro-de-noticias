@@ -560,7 +560,7 @@ footer a:hover {
         font-family: 'Poppins';
         outline: none;
         height: auto;
-        min-width: 395px;
+        max-width: 350px;
     }
 
     button {
