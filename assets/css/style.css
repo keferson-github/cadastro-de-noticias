@@ -360,14 +360,14 @@ textarea#newsDescription {
 }
 
 button {
-    padding: 8px;
+    padding: 10px;
     border-radius: 5px;
     border: none;
     background-color: #2563eb;
     color: #fafafa;
     font-family: 'Poppins';
     font-weight: 600;
-    width: 100%;
+    width: 350px;
     border: none;
     cursor: pointer;
     transition: 0.5s;
