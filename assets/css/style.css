@@ -230,6 +230,7 @@ button.delete-news:hover {
     background: rgba(0, 0, 0, 0.586);
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     padding: 20px;
 }
 
