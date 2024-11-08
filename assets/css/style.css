@@ -113,13 +113,12 @@ header button {
     cursor: pointer;
     font-family: 'Poppins';
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 0.9rem;
     width: 200px;
-    box-shadow: 0 0 15px #052e67bc, inset 0 0 15px #011d4542;
 }
 
 header button:hover {
-    background-color: #2563eb;
+    background-color: transparent;
     transform: scale(1.02);
 }
 
