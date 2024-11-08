@@ -615,10 +615,10 @@ footer a:hover {
         font-family: 'Poppins';
         outline: none;
         border: none;
-        width: 100%;
+        min-width: 85vw;
         height: auto;
     }
-    
+
     button {
         min-width: 10vw;
     }
