@@ -305,7 +305,7 @@ select#newsCategoryTitle {
 
 select#newsCategorySubtitle {
     background-color: #cccccc33;
-    height: 32px;
+    height: 40px;
     border: none;
     border-radius: 30px;
     padding: 10px;
@@ -332,7 +332,7 @@ input#categorySubtitle {
 
 input#newsAuthor {
     background-color: #cccccc33;
-    height: 32px;
+    height: 40px;
     border: none;
     border-radius: 30px;
     padding: 10px;
@@ -342,7 +342,7 @@ input#newsAuthor {
 
 input#newsDate {
     background-color: #cccccc33;
-    height: 32px;
+    height: 40px;
     border: none;
     border-radius: 30px;
     padding: 10px;
@@ -560,6 +560,7 @@ footer a:hover {
     input#categoryTitle {
         background-color: #cccccc33;
         padding: 10px;
+        height: 40px;
         border: none;
         border-radius: 30px;
         outline: none;
@@ -572,7 +573,7 @@ footer a:hover {
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 32px;
+        height: 40px;
         border: none;
         border-radius: 30px;
         padding: 10px;
@@ -583,6 +584,7 @@ footer a:hover {
     input#categorySubtitle {
         background-color: #cccccc33;
         padding: 10px;
+        height: 40px;
         border: none;
         border-radius: 30px;
         outline: none;
