@@ -489,7 +489,6 @@ footer a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
     gap: 10px;
 }
 
@@ -595,7 +594,7 @@ footer a:hover {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        gap: 10px;
+        gap: 37px;
     }
     
     .containerTitle-SubTitle {
