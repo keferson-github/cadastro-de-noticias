@@ -265,7 +265,7 @@ form#newsForm {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    max-width: 64%;
+    min-width: 100%;
     gap: 10px;
 }
 
