@@ -306,7 +306,6 @@ select#newsCategorySubtitle {
     height: 32px;
     border-radius: 5px;
     padding: 5px;
-    width: 215px;
     outline: none;
 }
 
@@ -544,6 +543,9 @@ footer a:hover {
 
     select#newsCategoryTitle {
         background-color: #cccccc33;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         height: 32px;
         border-radius: 5px;
         padding: 5px;
