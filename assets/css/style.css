@@ -297,7 +297,6 @@ select#newsCategoryTitle {
     background-color: #cccccc33;
     height: 32px;
     border-radius: 5px;
-    border: none;
     padding: 5px;
     outline: none;
 }
@@ -306,7 +305,6 @@ select#newsCategorySubtitle {
     background-color: #cccccc33;
     height: 32px;
     border-radius: 5px;
-    border: none;
     padding: 5px;
     width: 215px;
     outline: none;
@@ -315,7 +313,6 @@ select#newsCategorySubtitle {
 input#categoryTitle {
     background-color: #cccccc33;
     padding: 8px;
-    border: none;
     border-radius: 5px;
     outline: none;
     min-width: 352px;
@@ -324,7 +321,6 @@ input#categoryTitle {
 input#categorySubtitle {
     background-color: #cccccc33;
     padding: 8px;
-    border: none;
     border-radius: 5px;
     outline: none;
     min-width: 352px;
@@ -335,7 +331,6 @@ input#newsAuthor {
     background-color: #cccccc33;
     height: 32px;
     border-radius: 5px;
-    border: none;
     padding: 5px;
     outline: none;
 }
@@ -344,7 +339,6 @@ input#newsDate {
     background-color: #cccccc33;
     height: 32px;
     border-radius: 5px;
-    border: none;
     padding: 5px;
     outline: none;
 }
@@ -355,7 +349,6 @@ textarea#newsDescription {
     padding: 8px;
     font-family: 'Poppins';
     outline: none;
-    border: none;
     width: 100%;
     height: auto;
 }
@@ -536,7 +529,6 @@ footer a:hover {
     input#categoryTitle {
         background-color: #cccccc33;
         padding: 8px;
-        border: none;
         border-radius: 5px;
         outline: none;
         min-width: 92vw;
@@ -545,7 +537,6 @@ footer a:hover {
     input#categorySubtitle {
         background-color: #cccccc33;
         padding: 8px;
-        border: none;
         border-radius: 5px;
         outline: none;
         min-width: 92vw;
@@ -555,7 +546,6 @@ footer a:hover {
         background-color: #cccccc33;
         height: 32px;
         border-radius: 5px;
-        border: none;
         padding: 5px;
         outline: none;
         width: 350px;
@@ -567,7 +557,6 @@ footer a:hover {
         padding: 8px;
         font-family: 'Poppins';
         outline: none;
-        border: none;
         height: auto;
         min-width: 395px;
     }
@@ -619,7 +608,6 @@ footer a:hover {
         background-color: #cccccc33;
         height: 32px;
         border-radius: 5px;
-        border: none;
         padding: 5px;
         outline: none;
         width: 350px;
@@ -629,7 +617,6 @@ footer a:hover {
         background-color: #cccccc33;
         height: 32px;
         border-radius: 5px;
-        border: none;
         padding: 5px;
         width: 350px;
         outline: none;
@@ -641,7 +628,6 @@ footer a:hover {
         padding: 8px;
         font-family: 'Poppins';
         outline: none;
-        border: none;
         min-width: 85vw;
         height: auto;
     }
