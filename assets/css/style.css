@@ -439,7 +439,7 @@ footer a:hover {
     .input-list i {
         position: absolute;
         top: 12px;
-        left: 430px;
+        right: 280px;
         font-size: 16px;
         color: #49494975;
     }
@@ -625,7 +625,7 @@ footer a:hover {
     .input-list i {
         position: absolute;
         top: 12px;
-        left: 255px;
+        left: 240px;
         font-size: 16px;
         color: #49494975;
     }
