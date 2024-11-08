@@ -436,7 +436,7 @@ footer a:hover {
         font-family: 'Poppins';
         font-weight: 600;
         border: none;
-        max-width: 350px;
+        width: 100%;
         cursor: pointer;
         transition: 0.5s;
     }
