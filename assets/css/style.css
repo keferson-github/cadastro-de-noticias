@@ -293,6 +293,12 @@ form#newsForm {
     gap: 27px;
 }
 
+label {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 14px;
+}
+
 select#newsCategoryTitle {
     background-color: #cccccc33;
     height: 40px;
@@ -664,7 +670,7 @@ footer a:hover {
 
     select#newsCategoryTitle {
         background-color: #cccccc33;
-        height: 32px;
+        height: 40px;
         border: none;
         border-radius: 30px;
         padding: 10px;
@@ -674,7 +680,7 @@ footer a:hover {
 
     select#newsCategorySubtitle {
         background-color: #cccccc33;
-        height: 32px;
+        height: 40px;
         border: none;
         border-radius: 30px;
         padding: 10px;
