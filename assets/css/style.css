@@ -128,10 +128,10 @@ header input::placeholder {
 }
 
 header img {
-    width: 140px;
+    width: 120px;
 }
 
-/* Main Content *//* Main Content */
+/* Main Content */
 main {
     background-color: #fafafa;
     flex: 1;
@@ -413,7 +413,7 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* Responsive Design */
+/* Responsividade */
 @media (max-width: 768px) {
     .header-actions {
         display: flex;
@@ -425,7 +425,7 @@ footer a:hover {
     }
 
     header img {
-        width: 140px;
+        width: 100px;
     }
 
     .nav-list {
