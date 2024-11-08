@@ -296,8 +296,9 @@ form#newsForm {
 select#newsCategoryTitle {
     background-color: #cccccc33;
     height: 32px;
+    border: none;
     border-radius: 30px;
-    padding: 5px;
+    padding: 10px;
     width: 350px;
     outline: none;
 }
@@ -305,8 +306,9 @@ select#newsCategoryTitle {
 select#newsCategorySubtitle {
     background-color: #cccccc33;
     height: 32px;
+    border: none;
     border-radius: 30px;
-    padding: 5px;
+    padding: 10px;
     width: 350px;
     outline: none;
 }
