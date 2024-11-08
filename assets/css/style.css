@@ -558,7 +558,7 @@ footer a:hover {
         padding: 8px;
         border-radius: 5px;
         outline: none;
-        min-width: 92vw;
+        width: 350px;
     }
     
     input#categorySubtitle {
@@ -566,7 +566,7 @@ footer a:hover {
         padding: 8px;
         border-radius: 5px;
         outline: none;
-        min-width: 92vw;
+        width: 350px;
     }
 
     select#newsCategoryTitle {
