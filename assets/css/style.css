@@ -115,11 +115,13 @@ header button {
     font-weight: 600;
     font-size: 0.9rem;
     width: 200px;
+    border: 1px solid #fff;
 }
 
 header button:hover {
     background-color: transparent;
     transform: scale(1.02);
+    border: 1px solid #fff;
 }
 
 header input::placeholder {
