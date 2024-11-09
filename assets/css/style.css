@@ -625,7 +625,7 @@ footer a:hover {
     .input-list i {
         position: absolute;
         top: 12px;
-        right: 100px;
+        right: 85px !important;
         font-size: 16px;
         color: #49494975;
     }
