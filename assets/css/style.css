@@ -514,7 +514,7 @@ footer a:hover {
 
 }
 
-@media (max-width: 600px) and (min-width: 425px) {
+@media (min-width: 425px) {
     .input-list {
         position: relative;
     }
