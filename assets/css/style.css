@@ -455,7 +455,7 @@ footer a:hover {
         border: none;
         width: 100%;
         cursor: pointer;
-        transition: 0.5s;
+        transition: 0.3s;
     }
 
     .button-list-1 {
