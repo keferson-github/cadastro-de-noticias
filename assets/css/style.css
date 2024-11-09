@@ -414,7 +414,7 @@ footer a:hover {
 }
 
 /* Responsividade */
-@media (max-width: 768px) {
+@media (max-width: 730px) {
     .header-actions {
         display: flex;
         padding: 5px;
@@ -439,7 +439,7 @@ footer a:hover {
     .input-list i {
         position: absolute;
         top: 12px;
-        right: 280px;
+        right: 110px;
         font-size: 16px;
         color: #49494975;
     }
@@ -514,7 +514,8 @@ footer a:hover {
 
 }
 
-@media (min-width: 425px) {
+@media (max-width: 425px) {
+
     .input-list {
         position: relative;
     }
@@ -522,7 +523,7 @@ footer a:hover {
     .input-list i {
         position: absolute;
         top: 12px;
-        right: 110px;
+        right: 100px;
         font-size: 16px;
         color: #49494975;
     }
@@ -616,7 +617,7 @@ footer a:hover {
     }
 }
 
-@media (max-width: 412px) and (min-width: 375px) {
+@media (max-width: 412px) {
 
     .input-list {
         position: relative;
@@ -625,7 +626,7 @@ footer a:hover {
     .input-list i {
         position: absolute;
         top: 12px;
-        right: 85px !important;
+        right: 85px;
         font-size: 16px;
         color: #49494975;
     }
